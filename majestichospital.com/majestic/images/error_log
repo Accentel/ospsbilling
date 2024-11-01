@@ -1,0 +1,12 @@
+[22-Jul-2018 15:58:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/majestichospital/public_html/images/config.php on line 7
+[22-Jul-2018 15:59:13 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/majestichospital/public_html/images/config.php on line 7
+[01-Aug-2018 11:23:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/majestichospital/public_html/images/config.php on line 7
+[01-Aug-2018 11:24:15 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/majestichospital/public_html/images/config.php on line 7
+[01-Aug-2018 12:40:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/majestichospital/public_html/images/config.php on line 7
+[01-Aug-2018 12:41:51 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/majestichospital/public_html/images/config.php on line 7
+[12-Feb-2019 20:30:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/majestichospital/public_html/images/config.php on line 7
+[12-Feb-2019 20:31:59 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/majestichospital/public_html/images/config.php on line 7
+[11-Mar-2019 14:17:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/majestichospital/public_html/images/config.php on line 7
+[11-Mar-2019 14:18:57 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/majestichospital/public_html/images/config.php on line 7
+[13-Mar-2019 12:44:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/majestichospital/public_html/images/config.php on line 7
+[13-Mar-2019 12:45:46 UTC] PHP Warning:  mysql_connect(): Connection timed out in /home/majestichospital/public_html/images/config.php on line 7

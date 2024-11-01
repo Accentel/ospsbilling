@@ -1,0 +1,6 @@
+2023-11-24 11:13:01 - Failed login attempt from IP: ::1, Username: admin
+2023-11-24 11:14:08 - Failed login attempt from IP: ::1, Username: nanimini
+2023-11-24 11:29:08 - Failed login attempt from IP: ::1, Username: admin
+2023-11-24 11:29:55 - Failed login attempt from IP: ::1, Username: 5434
+2023-11-24 11:57:58 - Failed login attempt from IP: ::1, Username: admin
+2024-07-19 11:10:41 - Failed login attempt from IP: ::1, Username: admin
